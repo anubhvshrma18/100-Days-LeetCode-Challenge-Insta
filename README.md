@@ -1,5 +1,34 @@
 # 100 Days LeetCode Challenge
 
+## Overview
+This repository contains solutions, explanations, and notes for the "100 Days LeetCode Challenge" curated for Instagram. The challenge is designed to help programmers and coding enthusiasts strengthen their problem-solving skills by tackling one LeetCode problem every day for 100 days.
+
+## What You'll Find Here
+
+- **Daily Solutions:** Well-commented solutions for each day's challenge, primarily in Python (and other languages as needed).
+- **Problem Statements:** Each solution includes the original LeetCode problem statement for easy reference.
+- **Approach & Explanation:** Detailed breakdown of the solution strategy, including time and space complexity analysis.
+- **Tips & Tricks:** Handy notes and coding patterns to improve efficiency and understanding.
+- **Progress Tracker:** A log to help you track your journey and milestones in the challenge.
+
+## Why Use This Repository?
+
+- **Consistency:** Build a daily habit of solving coding problems.
+- **Interview Prep:** Covers a broad spectrum of topics commonly asked in coding interviews (Arrays, Strings, Linked Lists, Trees, Dynamic Programming, etc.).
+- **Community:** Join a community of learners sharing solutions, insights, and motivation.
+- **Instagram Integration:** Specially formatted content suitable for sharing on Instagram to inspire others.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anubhvshrma18/100-Days-LeetCode-Challenge-Insta.git
+   ```
+2. Navigate to the respective day’s folder/file and review the problem statement and solution.
+3. Try solving the problem yourself before checking the provided solution.
+4. Use the explanations and notes to deepen your understanding.
+
+
 | Day | Question Name | Question Link | Solution | Time Complexity | Space Complexity |
 |-----|--------------|---------------|----------|-----------------|------------------|
 | 001 | Intersection of LinkedList | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./Day-001/Intersection%20of%20LinkedList.cpp) | O(n) | O(1) |
@@ -43,3 +72,21 @@
 | 039 | Best Time to Buy and Sell Stock | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./Day-039/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) | O(n) | O(1) |
 | 040 | Guess the Number Higher or Lower | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./Day-040/Guess%20the%20Number%20Higher%20or%20Lower.cpp) | O(logn) | O(1) |
 | 041 | Koko Eating Bananas | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./Day-041/Koko%20Eating%20Bananas.cpp) | O(nlogm) | O(1) |
+
+
+
+## Contribution
+
+Contributions are welcome! If you’d like to add your solutions, tips, or improvements:
+- Fork the repository
+- Create a pull request with your updates
+- Discuss and suggest new problems or improvements via Issues
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy Coding! 🚀  
+Connect and share your progress on Instagram with #100DaysLeetCodeChallengeInsta
